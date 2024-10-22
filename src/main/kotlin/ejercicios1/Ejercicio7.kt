@@ -1,4 +1,4 @@
-package com.carlosalcina
+package ejercicios1
 
 fun ejercicio7() {
     println(multiplicar(5))

@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/src" />
             <option value="$PROJECT_DIR$/src/main" />
             <option value="$PROJECT_DIR$/src/main/ejercicios" />
+            <option value="$PROJECT_DIR$/src/main/java" />
           </set>
         </option>
       </GradleProjectSettings>

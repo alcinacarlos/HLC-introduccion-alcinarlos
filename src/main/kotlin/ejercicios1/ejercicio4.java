@@ -1,3 +1,5 @@
+package ejercicios1;
+
 public class ejercicio4 {
     public static void main(String[] args) {
         // los rangos se manejan de forma más intuitiva usando ".."

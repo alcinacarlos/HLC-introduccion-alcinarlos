@@ -1,8 +1,4 @@
-package com.carlosalcina
-
-import ejercicio2
-import ejercicio4
-import ejercicio6
+package ejercicios1
 
 fun showMenu(){
     repeat(100){

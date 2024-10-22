@@ -1,4 +1,4 @@
-package com.carlosalcina
+package ejercicios1
 
 fun ejercicio3(){
     val cofres = arrayOf("Espada", "Escudo", "Poción")

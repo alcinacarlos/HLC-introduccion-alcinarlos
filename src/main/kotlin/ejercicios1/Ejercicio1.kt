@@ -1,4 +1,4 @@
-package com.carlosalcina
+package ejercicios1
 
 fun ejercicio1(){
     var vida = 100;

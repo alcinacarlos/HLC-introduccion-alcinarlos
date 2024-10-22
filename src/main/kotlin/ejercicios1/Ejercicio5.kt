@@ -1,4 +1,4 @@
-package com.carlosalcina
+package ejercicios1
 
 class Personaje(val nombre: String, var vida: Int, var ataque: Int) {
     // Kotlin simplifica la definición de clases al permitir declarar propiedades directamente en el constructor

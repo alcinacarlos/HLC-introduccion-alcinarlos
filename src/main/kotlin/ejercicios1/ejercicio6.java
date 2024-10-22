@@ -1,3 +1,5 @@
+package ejercicios1;
+
 public class ejercicio6 {
     public static void main(String[] args) {
         // en Kotlin, una variable de tipo 'String?' indica que puede contener un valor de tipo String o ser null

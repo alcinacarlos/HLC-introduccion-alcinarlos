@@ -1,4 +1,4 @@
-package com.carlosalcina
+package ejercicios1
 
 fun ejercicio8() {
     // la clase persona está definida en el ejercicio 5 ya que es igual
